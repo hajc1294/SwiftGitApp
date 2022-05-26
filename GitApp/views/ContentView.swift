@@ -155,9 +155,14 @@ struct ContentView: View {
                             }
                             Spacer()
                                 .frame(height: 30)
-                            Text(TOKEN_INFO)
-                                .foregroundColor(.gray)
-                                .font(.system(size: 12))
+                            VStack(alignment: .leading) {
+                                Text(USER_INFO)
+                                    .foregroundColor(.gray)
+                                    .font(.system(size: 12))
+                                Text(TOKEN_INFO)
+                                    .foregroundColor(.gray)
+                                    .font(.system(size: 12))
+                            }
                         }
                         Spacer()
                     }
