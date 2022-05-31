@@ -183,7 +183,6 @@ struct ContentView: View {
             self.userError = self.user.isEmpty
             self.tokenError = self.token.isEmpty
         }
-        
     }
     
     ///
