@@ -28,6 +28,8 @@ Para almacenar los datos de utiliza **UserDefaults** (usuario) y **Keychain** (g
 
 El proyecto no usa **Pods** ni ninguna librería/paquete de terceros.
 
+> Relacionado: https://github.com/hajc1294/android-app-kotlin-gitapp.git
+
 # TODO
 
 * Pruebas unitarias
