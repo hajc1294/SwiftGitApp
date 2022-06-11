@@ -22,7 +22,7 @@ Para almacenar los datos de utiliza **UserDefaults** (usuario) y **Keychain** (g
 
 ### Como se ve?
 
-![oie_2712214mXHJB9oR](https://user-images.githubusercontent.com/61942641/170595112-2e4240e1-3b00-4380-b902-a10fcbf32e0c.png)
+<img src="https://user-images.githubusercontent.com/61942641/173165878-583a3f30-787f-4bc0-850b-b99fce31d7b8.png" width="250">   <img src="https://user-images.githubusercontent.com/61942641/173165874-539422de-db45-4bd1-a4bd-9083fba4c283.png" width="250">   <img src="https://user-images.githubusercontent.com/61942641/173165877-53ad80a3-48fc-493e-8eda-423bb3201b57.png" width="250">
 
 ### Importante
 
