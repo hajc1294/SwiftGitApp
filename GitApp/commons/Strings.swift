@@ -12,7 +12,7 @@ let USER = "Usuario"
 let TOKEN = "Github token"
 let AUTH_WITH_FACE_ID = "Ingresar con Face ID"
 let LOGIN = "Ingresar"
-let USER_INFO = "* El usuario es tu user name de Github."
+let USER_INFO = "* El usuario es tu nombre de usuario de Github."
 let TOKEN_INFO = "* Debes generar un token de github para poder ingresar y ver tu información. Si no sabes como generar un token, visita la página de Github para más información."
 let INPUT_ERROR = "Espacio requerido."
 

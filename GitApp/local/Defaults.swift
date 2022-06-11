@@ -38,7 +38,7 @@ class Defaults {
     ///
     ///
     static func getToken() -> String {
-        let data = KeychainHelper.standard.read(service: SERVICE_TAG, account: getUser())!
+        let data = KeychainHelper.standard.read(service: SERVICE_TAG, account: getUser()) ?? Data("".utf8)
         return String(data: data, encoding: .utf8)!
     }
     
@@ -46,7 +46,7 @@ class Defaults {
     ///
     ///
     static func clear() {
-        KeychainHelper.standard.save(Data("".utf8), service: SERVICE_TAG, account: getUser())
+        KeychainHelper.standard.delete(service: SERVICE_TAG, account: getUser())
         UserDefaults.standard.set("", forKey: USER_TAG)
     }
 }

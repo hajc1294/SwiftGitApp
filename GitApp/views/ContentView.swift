@@ -119,7 +119,7 @@ struct ContentView: View {
                                     .font(.system(size: 60))
                             }
                         }
-                        Image(uiImage: UIImage(named: "code_background")!)
+                        Image(uiImage: UIImage(named: "binary_code")!)
                             .resizable()
                             .scaledToFit()
                             .frame(width: geometry.size.width)
@@ -183,7 +183,6 @@ struct ContentView: View {
             self.userError = self.user.isEmpty
             self.tokenError = self.token.isEmpty
         }
-        
     }
     
     ///
