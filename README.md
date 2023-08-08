@@ -1,4 +1,4 @@
-# ios-app-swift-gitapp 
+SwiftGitApp 
 Aplicación **SwiftUI** para visualizar datos de Github dados un usuario y un token (Github token), implementa autenticación biométrica mediante **FaceID**.
 
 ![](https://camo.githubusercontent.com/cbe540fa5f1bd4860434caea1ebe43419ed42d92d54084d529c3a93a67139f10/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73776966742532302d2532334641373334332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7377696674266c6f676f436f6c6f723d7768697465)
